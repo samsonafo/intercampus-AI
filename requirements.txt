@@ -1,0 +1,6 @@
+xgboost
+scikit-learn
+numpy
+pandas
+matplotlib
+yellowbricks
